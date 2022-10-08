@@ -1,4 +1,4 @@
-NewsApiClient newsApiClient = new NewsApiClient("YOUR_API_KEY");
+NewsApiClient newsApiClient = new NewsApiClient("b846ca1b4f1c42608777efebcb5319d6");
 
 // /v2/everything
 newsApiClient.getEverything(
